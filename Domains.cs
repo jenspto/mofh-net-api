@@ -41,7 +41,7 @@ namespace MOFH_api
                 }
             }
         }
-        public static async void GetUserByDomain(String apiUsername, String apiPassword, String username)
+        public static async void GetUserByDomain(String apiUsername, String apiPassword, String domain)
         {
             using (var httpClient = new HttpClient())
             {
