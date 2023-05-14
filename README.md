@@ -11,7 +11,8 @@ An api wrapper of [MyOwnFreeHost](https://api.myownfreehost.net)
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
+## Nuget
+You can find NuGet Package [here](https://www.nuget.org/packages/mofh/)
 ## Authors
 
 - [@ptobuon](https://www.github.com/ptobuon)
