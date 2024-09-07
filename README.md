@@ -4,7 +4,7 @@
 An api wrapper of [MyOwnFreeHost](https://api.myownfreehost.net) 
 ## Documentation
 
-[Documentation can be found here](https://ptobuon.eu.org/mofh-net-api)
+[Documentation can be found here](https://github.ptobuon.eu.org/mofh-net-api)
 
 
 ## License
